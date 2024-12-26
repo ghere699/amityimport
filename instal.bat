@@ -1,0 +1,1 @@
+del "C:\\Prometheus\\settings.json"

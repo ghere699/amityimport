@@ -1,0 +1,224 @@
+[19:08:14] [INFO]   [main.cpp:212]            
+                                .       .
+                 _.-'\          |\-"""-/|          /`-._
+             _.-`     `.       /         \       ,'     '-._
+          _.'           `._   ;   \   /   ;   _,'           `._
+        .'                 `-.:           :.-'                 `.
+      ,`                           , ,                           '.
+    ,`                                                             '.
+   /                                                                 \
+  :,-"""-,                                                     ,-"""-,:
+ /'       `                                                   '       '\
+          :                                                   :
+          : ,-"""-,                                   ,-"""-, :
+          /'       `.       _.-'         '-._       .'       '\
+                     \    .`    :       :    '.    /
+                      . .`       :     :       '. .
+                      :/          :   :          \:
+                      :            : :            :
+                                    :
+    
+[19:08:14] [INFO]   [main.cpp:233]            Amity initialized.
+[19:08:14] [INFO]   [main.cpp:241]            Dll valid! Enjoy.
+[19:08:14] [INFO]   [pointers.cpp:488]        Found [FPTR]
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [ISS]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [GLT]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [GS]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RM]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [GV]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [GDD]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [PF]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RP]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [DHM]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RE]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [NCAM]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [SPT]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RBP]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [FTC]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RI]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [N]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [MRCS]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [WP]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [MGEA]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [VFX-WHL]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [TCD]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [NPM]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [Get Net Player]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [SP]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [PTH]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [GSH]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [FV]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [ST]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [NH]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RBB]   
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [WBD]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [SG]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [CGSHM]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RBWD]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RBA]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [SC]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RBS]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [WBI32]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [WBI64]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [WBB]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [WBQ]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [GCP&SRGC]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [MSB]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [REH]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [OMSP]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [WBA]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [TJH]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RCC]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [FPC2]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [SEA]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RPI]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [GEAT]   
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [NR]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [MWL]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [MHT]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [STOPVT]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [IMCD]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [CNOM]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [TSE]  
+[19:08:14] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [CAD]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [TPO]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RCS/GSTFT/GNOFP/GNO/GSTI]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [NS]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [WPCDN]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [CT]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [GVGAS]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [NTQVMC]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [AWIV]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [GNED]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [QD]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [RCB]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [ICF]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [Clear Tasks]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [DC]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [Migrade]  
+[19:08:15] [INFO]   [pattern_batch.cpp:27]    > [AMITY] > [HOOK3D] > [VPMND]  
+[19:08:15] [INFO]   [main.cpp:245]            < [AMITY] < [HOOK3D] < [Pointers initialized.]
+[19:08:15] [INFO]   [main.cpp:262]            < [AMITY] < [HOOK3D] < [Renderer initialized.]
+[19:08:15] [INFO]   [main.cpp:265]            < [AMITY] < [HOOK3D] < [Fiber pool initialized.]
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'Get label text hook'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'Receive event'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'SetCursorPos'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'Script hook'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'ConvertThreadToFiber'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'Hook Fragment 2'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'Task Jump'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'FTC'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'Can Apply Data'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'HRP'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'RCC'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'RCS'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'HVPMN'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'HGNE'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'HTJ'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'HIMC'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'NCAM'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'RBP'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'RE'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'RP'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'SPR'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'HMD'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'TC'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'HSTOPVT'.
+[19:08:15] [INFO]   [detour_hook.cpp:18]      Created hook 'WPCD'.
+[19:08:15] [INFO]   [main.cpp:268]            < [AMITY] < [HOOK3D] < [Hooking initialized.]
+[19:08:15] [INFO]   [main.cpp:271]            < [AMITY] < [HOOK3D] < [Settings Loaded.]
+[19:08:15] [INFO]   [vehicle.cpp:219]         < [AMITY] < [HOOK3D] > [Vehicles.ini loaded.]
+[19:08:15] [INFO]   [vehicle.cpp:231]         < [AMITY] < [HOOK3D] > [Vehicle_class.ini loaded.]
+[19:08:15] [INFO]   [main.cpp:283]            < [AMITY] < [HOOKED] < [Scripts registered.]
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'Get label text hook'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'SetCursorPos'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'Hook Fragment 2'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'Task Jump'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'TC'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'FTC'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'WPCD'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HRP'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'RCC'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'RCS'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HGNE'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HTJ'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HIMC'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HVPMN'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HMD'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'HSTOPVT'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'Script hook'.
+[19:08:15] [INFO]   [detour_hook.cpp:42]      Enabled hook 'ConvertThreadToFiber'.
+[19:08:15] [INFO]   [main.cpp:286]            < [AMITY] < [HOOKED] < [Hooking enabled.]
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked achievement_controller script (0x210B50F8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked Armenian1 script (0x210B59D8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked blip_controller script (0x210B416C000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked bootycallhandler script (0x210B57A4000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked buddyDeathResponse script (0x210B5B30000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked building_controller script (0x210B5108000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked candidate_controller script (0x210B57A8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked cellphone_controller script (0x210B5120000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked cheat_controller script (0x210B57AC000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked CompletionPercentage_controller script (0x210B57B0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked context_controller script (0x210B512C000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked controller_AmbientArea script (0x210B57DE000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked dialogue_handler script (0x210B5130000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked email_controller script (0x210B57E0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked emergencycalllauncher script (0x210B57F0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked error_listener script (0x210B550C000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked event_controller script (0x210B57F8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked flow_controller script (0x210B5800000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked globals_FMMC_struct_registration script (0x210B2E60000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked globals_FMMCstruct2_registration script (0x210B3020000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked InGameHud script (0x210B5138000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked initial script (0x210B56F8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked launcher_Fanatic script (0x211306B8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked main script (0x210B5510000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked main_persistent script (0x210B4EA8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked mission_stat_alerter script (0x210B58B0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked mission_stat_watcher script (0x210B5AA0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked MP_FM_registration script (0x210B31E0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked MP_PROP_GLOBAL_BLOCK script (0x210B3320000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked mp_prop_special_global_block script (0x210B3520000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked MP_registration script (0x210B35E0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked MP_SAVE_GAME_GLOBAL_BLOCK script (0x210B2E30000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked MPStatsInit script (0x210B58B2000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked ob_drinking_shots script (0x2112F080000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked photographyMonkey script (0x210B5BC8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked pickup_controller script (0x210B58B8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked player_controller script (0x210B58C0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked RandomChar_Controller script (0x210B5958000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked re_atmrobbery script (0x210B5778000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked replay_controller script (0x210B5B38000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked respawn_controller script (0x210B5AB0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked restrictedAreas script (0x210B5960000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked SC_LB_GLOBAL_BLOCK script (0x210B36C0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked selector script (0x210B51D8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked shop_controller script (0x210B5260000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked social_controller script (0x210B54C0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked sp_dlc_registration script (0x210BC5C6000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked sp_pilotschool_reg script (0x210BD4A8000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked Standard_global_init script (0x210B36E0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked Standard_global_reg script (0x210B7438000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked startup script (0x210B0160000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked startup_positioning script (0x210B4E08000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked stats_controller script (0x210B5504000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked stock_controller script (0x210B5968000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked taxiLauncher script (0x210B5970000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked title_update_registration script (0x210B38A0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked title_update_registration_2 script (0x210B39E0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked tunables_registration script (0x210B3AE0000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked tuneables_processing script (0x210B5650000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked vehicle_gen_controller script (0x210B5980000)
+[19:08:15] [INFO]   [script_hook.cpp:78]      Hooked valentinerpreward2 script (0x210B5780000)
+[19:08:15] [INFO]   [main.cpp:289]            < [AMITY] < [HOOK3D] < [SCRIPT Hooking initialized.]
+[19:08:17] [INFO]   [hooking.cpp:538]         Blocking AC Verifier 0xACCDD8
+[19:08:20] [INFO]   [hooking.cpp:538]         Blocking AC Verifier 0xACCEE8
+[19:08:23] [INFO]   [hooking.cpp:538]         Blocking AC Verifier 0xACCFF4
+[19:08:26] [INFO]   [hooking.cpp:538]         Blocking AC Verifier 0xACD100
+[19:08:29] [INFO]   [hooking.cpp:538]         Blocking AC Verifier 0xACC7A4
+[19:11:07] [INFO]   [player_tab.cpp:91]       1
+[19:11:07] [INFO]   [player_tab.cpp:91]       0
+[19:11:08] [INFO]   [player_tab.cpp:91]       1
+[19:11:10] [INFO]   [player_tab.cpp:91]       0
+[19:11:19] [INFO]   [player_tab.cpp:91]       1
+[19:11:21] [INFO]   [player_tab.cpp:91]       0
